@@ -1,33 +1,77 @@
-<h1 align="center">Hi 👋, I'm Umer Malik</h1>
-<h3 align="center">A passionate Flutter developer</h3>
+<h1 align="center" style="color:#0D47A1;">Hi there 👋, I'm Umer Malik</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imumermalik" alt="imumermalik" /></a> </p>
+<h3 align="center" style="color:#0D47A1;">🚀 Professional Flutter Developer | Clean Architecture Expert | Riverpod Enthusiast 🚀</h3>
 
-<p align="left"> <a href="https://twitter.com/imumermalik" target="blank"><img src="https://img.shields.io/twitter/follow/imumermalik?logo=twitter&style=for-the-badge" alt="imumermalik" /></a> </p>
-
-- 🔭 I’m currently working on **different Mobile Apps**
-
-- 🌱 I’m currently learning **ML and AR**
-
-- 👯 I’m looking to collaborate on **Flutter projects**
-
-- 👨‍💻 All of my projects are available at [https://wolfiz.com/services/](https://wolfiz.com/services/)
-
-- 💬 Ask me about **Dart and Flutter**
-
-- 📫 How to reach me **https://wa.me/+923335282662**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/imumermalik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imumermalik" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Mobile+App+Developer+%7C+Flutter+%7C+Dart;Clean+Architecture+%7C+Riverpod+%7C+Firebase;Always+learning+new+things!&font=Fira%20Code&center=true&width=550&height=60&color=0D47A1&vCenter=true&size=24" alt="Typing SVG">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imumermalik&show_icons=true&locale=en&layout=compact" alt="imumermalik" /></p>
+### 💼 About Me
+I am a **Flutter Developer** with expertise in **Clean Architecture** and **Riverpod**, creating high-performance mobile applications with an emphasis on scalability and maintainability.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imumermalik&show_icons=true&locale=en" alt="imumermalik" /></p>
+- 🔭 Currently working on exciting **mobile app projects**.
+- 🌱 Exploring **AR** and **ML** technologies.
+- 💬 Ask me about **Flutter, Dart, Riverpod, and Clean Architecture**.
+- 📫 Reach me on [WhatsApp](https://wa.me/+923335282662).
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imumermalik&" alt="imumermalik" /></p>
+---
 
+### 🛠️ Technologies I Work With:
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white&size=large" alt="Flutter" height="50px"/>
+  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white&size=large" alt="Dart" height="50px"/>
+  <img src="https://img.shields.io/badge/Riverpod-%231F53F8.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Riverpod" height="50px"/>
+  <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black&size=large" alt="Firebase" height="50px"/>
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&size=large" alt="Git" height="50px"/>
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white&size=large" alt="Figma" height="50px"/>
+</p>
+
+---
+
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=imumermalik&show_icons=true&theme=dark&bg_color=0D47A1&icon_color=FFCA28&text_color=FFFFFF" alt="Umer's GitHub Stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imumermalik&theme=dark&background=0D47A1&fire=FFCA28&ring=FFCA28&currStreakLabel=FFFFFF" alt="GitHub Streak" width="48%">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imumermalik&layout=compact&theme=dark&bg_color=0D47A1&text_color=FFFFFF" alt="Top Languages" width="40%">
+</p>
+
+---
+
+### 🏆 Contribution & Activity Stats:
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imumermalik&theme=solarized_dark" alt="Profile Details" width="80%">
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=imumermalik&theme=solarized_dark" alt="Most Commit Language" width="30%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imumermalik&theme=solarized_dark" alt="Repos per Language" width="30%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=imumermalik&theme=solarized_dark" alt="Productive Time" width="30%">
+</p>
+
+---
+
+### 🏆 Trophies:
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=imumermalik&theme=onestar&column=7&no-frame=true" alt="GitHub Trophies" width="100%">
+  </a>
+</p>
+
+---
+
+### 🌐 Connect with me:
+<p align="center">
+  <a href="https://www.linkedin.com/in/imumermalik" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://wa.me/+923335282662" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+  <a href="https://github.com/imumermalik" target="_blank"><img src="https://img.shields.io/github/followers/imumermalik?style=for-the-badge&logo=github&color=0D47A1" alt="GitHub"></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/387554/screenshots/10753225/flutter_dash_plushie.png" alt="Flutter Dash Plush" width="200px">
+</p>
