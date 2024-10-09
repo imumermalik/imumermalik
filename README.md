@@ -3,7 +3,7 @@
 <h3 align="center" style="color:#0D47A1;">🚀 Professional Flutter Developer | Clean Architecture Expert | Riverpod Enthusiast 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Mobile+App+Developer+%7C+Flutter+%7C+Dart;Clean+Architecture+%7C+Riverpod+%7C+Firebase;Always+learning+new+things!&font=Fira%20Code&center=true&width=550&height=60&color=0D47A1&vCenter=true&size=24" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Mobile+App+Developer+%7C+;Clean+Architecture+%7C;Always+learning+new+things!&font=Fira%20Code&center=true&width=550&height=60&color=0D47A1&vCenter=true&size=24" alt="Typing SVG">
 </p>
 
 ---
@@ -73,5 +73,5 @@ I am a **Flutter Developer** with expertise in **Clean Architecture** and **Rive
 ---
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/387554/screenshots/10753225/flutter_dash_plushie.png" alt="Flutter Dash Plush" width="200px">
+  <img src="https://docs.flutter.dev/assets/images/dash/Dashatars.png" alt="Flutter Dash Plush" width="200px">
 </p>
