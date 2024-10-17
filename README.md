@@ -18,6 +18,21 @@ I am a **Flutter Developer** with expertise in **Clean Architecture** and **Rive
 
 ---
 
+### 📖 My Developer Journey
+<p align="center">
+  <img src="https://docs.flutter.dev/assets/images/docs/fwe/dash-search.png" alt="Flutter Dash Searching" width="400px">
+</p>
+
+It all started with **searching** for efficient solutions, much like Dash here. I delved deep into **Flutter** and **Clean Architecture** to ensure each layer of the app was structured for scalability and efficiency.
+
+<p align="center">
+  <img src="https://docs.flutter.dev/assets/images/dash/Dashatars.png" alt="Clean Architecture Layers" width="400px">
+</p>
+
+Through the **Presentation**, **Domain**, and **Data** layers, I ensure that every Flutter app I build follows the principles of **Clean Architecture**, keeping logic well-separated and maintainable.
+
+---
+
 ### 🛠️ Technologies I Work With:
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white&size=large" alt="Flutter" height="50px"/>
@@ -27,6 +42,24 @@ I am a **Flutter Developer** with expertise in **Clean Architecture** and **Rive
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&size=large" alt="Git" height="50px"/>
   <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white&size=large" alt="Figma" height="50px"/>
 </p>
+
+---
+
+### 🎶 Coding Vibes:
+<p align="center">
+  <img src="https://docs.flutter.dev/assets/images/dash/dash-fainting.gif" alt="Flutter Dash Dancing" width="480px" height="270px">
+</p>
+
+When it comes to coding, it's always good to have some fun! Whether it's debugging or implementing new features, I keep the vibe light and full of energy, just like Dash here.
+
+---
+
+### 💻 Teaching & Sharing Code:
+<p align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*mKDi8uwL8R9d5G3fbApELA@2x.jpeg" alt="Dash Explaining Code" width="500px">
+</p>
+
+I enjoy teaching and sharing my knowledge with others. Whether it's explaining Flutter code or mentoring others on **Riverpod** and **Clean Architecture**, I'm always eager to help the developer community grow.
 
 ---
 
