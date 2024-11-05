@@ -106,5 +106,5 @@ I enjoy teaching and sharing my knowledge with others. Whether it's explaining F
 ---
 
 <p align="center">
-  <img src="https://docs.flutter.dev/assets/images/dash/Dashatars.png" alt="Flutter Dash Plush" width="200px">
+  <img src="https://docs.flutter.dev/assets/images/dash/Dashatars.png" alt="Flutter Dart Dash Plush" width="200px">
 </p>
