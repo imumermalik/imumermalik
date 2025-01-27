@@ -29,8 +29,6 @@ It all started with **searching** for efficient solutions, much like Dash here. 
   <img src="https://docs.flutter.dev/assets/images/dash/Dashatars.png" alt="Clean Architecture Layers" width="400px">
 </p>
 
-Through the **Presentation**, **Domain**, and **Data** layers, I ensure that every Flutter app I build follows the principles of **Clean Architecture**, keeping logic well-separated and maintainable.
-
 ---
 
 ### 🛠️ Technologies I Work With:
@@ -45,44 +43,26 @@ Through the **Presentation**, **Domain**, and **Data** layers, I ensure that eve
 
 ---
 
-### 🎶 Coding Vibes:
-<p align="center">
-  <img src="https://docs.flutter.dev/assets/images/dash/dash-fainting.gif" alt="Flutter Dash Dancing" width="480px" height="270px">
-</p>
-
-When it comes to coding, it's always good to have some fun! Whether it's debugging or implementing new features, I keep the vibe light and full of energy, just like Dash here.
-
----
-
-### 💻 Teaching & Sharing Code:
-<p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*mKDi8uwL8R9d5G3fbApELA@2x.jpeg" alt="Dash Explaining Code" width="500px">
-</p>
-
-I enjoy teaching and sharing my knowledge with others. Whether it's explaining Flutter code or mentoring others on **Riverpod** and **Clean Architecture**, I'm always eager to help the developer community grow.
-
----
-
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imumermalik&show_icons=true&theme=dark&bg_color=0D47A1&icon_color=FFCA28&text_color=FFFFFF" alt="Umer's GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imumermalik&theme=dark&background=0D47A1&fire=FFCA28&ring=FFCA28&currStreakLabel=FFFFFF" alt="GitHub Streak" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=imumermalik&show_icons=true&theme=dark&bg_color=0D47A1&icon_color=FFCA28&text_color=FFFFFF" alt="Umer's GitHub Stats" width="48%" height="200px" style="border-radius: 8px; transition: all 0.3s ease;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imumermalik&theme=dark&background=0D47A1&fire=FFCA28&ring=FFCA28&currStreakLabel=FFFFFF" alt="GitHub Streak" width="48%" height="200px" style="border-radius: 8px; transition: all 0.3s ease;">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imumermalik&layout=compact&theme=dark&bg_color=0D47A1&text_color=FFFFFF" alt="Top Languages" width="40%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imumermalik&layout=compact&theme=dark&bg_color=0D47A1&text_color=FFFFFF" alt="Top Languages" width="40%" style="border-radius: 8px;">
 </p>
 
 ---
 
 ### 🏆 Contribution & Activity Stats:
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imumermalik&theme=solarized_dark" alt="Profile Details" width="80%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imumermalik&theme=solarized_dark" alt="Profile Details" width="80%" style="border-radius: 8px; transition: all 0.3s ease;">
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=imumermalik&theme=solarized_dark" alt="Most Commit Language" width="30%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imumermalik&theme=solarized_dark" alt="Repos per Language" width="30%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=imumermalik&theme=solarized_dark" alt="Productive Time" width="30%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=imumermalik&theme=solarized_dark" alt="Most Commit Language" width="30%" style="border-radius: 8px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imumermalik&theme=solarized_dark" alt="Repos per Language" width="30%" style="border-radius: 8px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=imumermalik&theme=solarized_dark" alt="Productive Time" width="30%" style="border-radius: 8px;">
 </p>
 
 ---
@@ -90,7 +70,7 @@ I enjoy teaching and sharing my knowledge with others. Whether it's explaining F
 ### 🏆 Trophies:
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=imumermalik&theme=onestar&column=7&no-frame=true" alt="GitHub Trophies" width="100%">
+    <img src="https://github-profile-trophy.vercel.app/?username=imumermalik&theme=onestar&column=7&no-frame=true" alt="GitHub Trophies" width="100%" style="border-radius: 8px; transition: all 0.3s ease;">
   </a>
 </p>
 
@@ -98,9 +78,9 @@ I enjoy teaching and sharing my knowledge with others. Whether it's explaining F
 
 ### 🌐 Connect with me:
 <p align="center">
-  <a href="https://www.linkedin.com/in/imumermalik" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://wa.me/+923335282662" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
-  <a href="https://github.com/imumermalik" target="_blank"><img src="https://img.shields.io/github/followers/imumermalik?style=for-the-badge&logo=github&color=0D47A1" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/imumermalik" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="transition: all 0.3s ease;"></a>
+  <a href="https://wa.me/+923335282662" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" style="transition: all 0.3s ease;"></a>
+  <a href="https://github.com/imumermalik" target="_blank"><img src="https://img.shields.io/github/followers/imumermalik?style=for-the-badge&logo=github&color=0D47A1" alt="GitHub" style="transition: all 0.3s ease;"></a>
 </p>
 
 ---
