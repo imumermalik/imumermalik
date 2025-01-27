@@ -45,16 +45,18 @@ It all started with **searching** for efficient solutions, much like Dash here. 
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <!-- Main GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=imumermalik&show_icons=true&count_private=true&theme=dark" alt="Umer's GitHub Stats" width="48%" style="border-radius: 8px;">
-
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imumermalik&theme=dark" alt="GitHub Streak" width="48%" style="border-radius: 8px;">
+  <strong>🌟 Muhammad Umer Malik's GitHub Stats:</strong><br>
+  - **Repositories**: [Total Repos: X](https://github.com/imumermalik?tab=repositories)  
+  - **Followers**: [Followers Count: Y](https://github.com/imumermalik?tab=followers)  
+  - **Following**: [Following Count: Z](https://github.com/imumermalik?tab=following)  
+  - **Public Repos**: [X Public Repos](https://github.com/imumermalik?tab=repositories&q=&type=repositories&language=&sort=)
 </p>
 
+<!-- Display any activity data -->
 <p align="center">
-  <!-- Top Languages (using GitHub Readme Stats API) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imumermalik&layout=compact&theme=dark" alt="Top Languages" width="40%" style="border-radius: 8px;">
+  <strong>📈 GitHub Activity:</strong><br>
+  - **Contributions:** <a href="https://github.com/imumermalik?tab=activity">View Contributions</a>
+  - **Most Active Repo**: <a href="https://github.com/imumermalik/your-repo-name">Repo Name</a>
 </p>
 
 
