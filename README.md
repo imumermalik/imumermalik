@@ -43,25 +43,25 @@ It all started with **searching** for efficient solutions, much like Dash here. 
 
 ---
 
-### 📊 GitHub Stats:
+### 📊 GitHub Stats & Streak:
 <p align="center">
-  <!-- Animated GitHub Stats Card with Smooth Hover Effect -->
+  <!-- Stats Card with Catppuccin Theme and Hover Effects -->
   <a href="https://github.com/imumermalik" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=imumermalik&show_icons=true&count_private=true&theme=radical&hide_title=true&hide=prs&border_radius=10&locale=en" alt="Umer's GitHub Stats" width="48%" style="border-radius: 12px; box-shadow: 0px 8px 12px rgba(0, 0, 0, 0.2); transition: transform 0.3s ease, box-shadow 0.3s ease;">
+    <img src="https://github-readme-stats.vercel.app/api?username=imumermalik&show_icons=true&count_private=true&theme=catppuccin-latte&hide_title=true&hide=prs&border_radius=10&locale=en" alt="Umer's GitHub Stats" width="48%" height="200px" style="border-radius: 12px; box-shadow: 0px 8px 12px rgba(0, 0, 0, 0.2); transition: transform 0.3s ease, box-shadow 0.3s ease;">
   </a>
 </p>
 
 <p align="center">
-  <!-- GitHub Streak Stats with Hover Animation -->
+  <!-- Streak Stats Card with Catppuccin Theme -->
   <a href="https://github.com/imumermalik" target="_blank">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=imumermalik&theme=radical&background=0D47A1&fire=FFCA28&ring=FFCA28&currStreakLabel=FFFFFF" alt="GitHub Streak" width="48%" style="border-radius: 12px; box-shadow: 0px 8px 12px rgba(0, 0, 0, 0.2); transition: transform 0.3s ease, box-shadow 0.3s ease;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=imumermalik&theme=catppuccin-latte&background=0D47A1&fire=FFCA28&ring=FFCA28&currStreakLabel=FFFFFF" alt="GitHub Streak" width="48%" height="200px" style="border-radius: 12px; box-shadow: 0px 8px 12px rgba(0, 0, 0, 0.2); transition: transform 0.3s ease, box-shadow 0.3s ease;">
   </a>
 </p>
 
 <p align="center">
-  <!-- Top Languages Card with Animated Hover Effect -->
+  <!-- Top Languages Card with Catppuccin Theme -->
   <a href="https://github.com/imumermalik" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imumermalik&layout=compact&theme=radical" alt="Top Languages" width="40%" style="border-radius: 12px; box-shadow: 0px 8px 12px rgba(0, 0, 0, 0.2); transition: transform 0.3s ease, box-shadow 0.3s ease;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imumermalik&layout=compact&theme=catppuccin-latte" alt="Top Languages" width="40%" style="border-radius: 12px; box-shadow: 0px 8px 12px rgba(0, 0, 0, 0.2); transition: transform 0.3s ease, box-shadow 0.3s ease;">
   </a>
 </p>
 
@@ -72,6 +72,7 @@ It all started with **searching** for efficient solutions, much like Dash here. 
     box-shadow: 0px 16px 32px rgba(0, 0, 0, 0.25);
   }
 </style>
+
 
 ---
 
