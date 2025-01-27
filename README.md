@@ -45,13 +45,21 @@ It all started with **searching** for efficient solutions, much like Dash here. 
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imumermalik&show_icons=true&theme=dark&bg_color=0D47A1&icon_color=FFCA28&text_color=FFFFFF" alt="Umer's GitHub Stats" width="48%" height="200px" style="border-radius: 8px; transition: all 0.3s ease;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imumermalik&theme=dark&background=0D47A1&fire=FFCA28&ring=FFCA28&currStreakLabel=FFFFFF" alt="GitHub Streak" width="48%" height="200px" style="border-radius: 8px; transition: all 0.3s ease;">
+  <!-- Adding a loading spinner for better UX while stats load -->
+  <img src="https://media.giphy.com/media/Yk6dYfG9mjNwC0i28s/giphy.gif" alt="Loading GitHub Stats..." width="100px" style="display: block; margin-bottom: 20px;">
+
+  <!-- GitHub Stats - Main Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=imumermalik&show_icons=true&theme=dark&bg_color=0D47A1&icon_color=FFCA28&text_color=FFFFFF" alt="Umer's GitHub Stats" width="48%" style="border-radius: 8px; transition: all 0.3s ease; opacity: 0.8;">
+
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imumermalik&theme=dark&background=0D47A1&fire=FFCA28&ring=FFCA28&currStreakLabel=FFFFFF" alt="GitHub Streak" width="48%" style="border-radius: 8px; transition: all 0.3s ease; opacity: 0.8;">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imumermalik&layout=compact&theme=dark&bg_color=0D47A1&text_color=FFFFFF" alt="Top Languages" width="40%" style="border-radius: 8px;">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imumermalik&layout=compact&theme=dark&bg_color=0D47A1&text_color=FFFFFF" alt="Top Languages" width="40%" style="border-radius: 8px; opacity: 0.8;">
 </p>
+
 
 ---
 
